@@ -1,0 +1,6 @@
+C:\Users\rabeeh\Desktop\Silverlight4COM_src\Silverlight4COM_src\ComExampleLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rabeeh\Desktop\Silverlight4COM_src\Silverlight4COM_src\ComExampleLib\bin\Debug\ComExampleLib.dll
+C:\Users\rabeeh\Desktop\Silverlight4COM_src\Silverlight4COM_src\ComExampleLib\bin\Debug\ComExampleLib.pdb
+C:\Users\rabeeh\Desktop\Silverlight4COM_src\Silverlight4COM_src\ComExampleLib\bin\Debug\ComExampleLib.tlb
+C:\Users\rabeeh\Desktop\Silverlight4COM_src\Silverlight4COM_src\ComExampleLib\obj\Debug\ComExampleLib.dll
+C:\Users\rabeeh\Desktop\Silverlight4COM_src\Silverlight4COM_src\ComExampleLib\obj\Debug\ComExampleLib.pdb
